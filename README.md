@@ -1,1 +1,1 @@
-No issues cause its perfect, hit me up if you want features
+No issues cause its perfect, Should I add widescreen support? along with sliders in the menu that change the settings?
